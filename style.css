@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#mycanvas {
+    background: black;
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+    height: 100%;
+    width: 100%;
+}
